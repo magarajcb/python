@@ -1,1 +1,1 @@
-print('my girls are','asha','varshini')
+print('moving to ai/ml')
