@@ -1,1 +1,2 @@
-print('moving to ai/ml')
+a=",aharaj ias"
+print(type(a))
