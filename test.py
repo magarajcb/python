@@ -1,2 +1,2 @@
-a=",aharaj ias"
-print(type(a))
+name=input("Please enter your name:")
+print("Hello:",name)
