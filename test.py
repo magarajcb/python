@@ -1,7 +1,5 @@
-marks=int(input("Enter your marks:"))
-if marks<=60:
-    print("B")
-elif marks>=61 and marks<=80:
-    print("A")
+year=int(input("Enter the year:"))
+if year%400== 0 and year%4==0:
+ print("Leap year")
 else:
- print("S")
+ print("Not a leap year")
