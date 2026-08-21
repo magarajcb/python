@@ -1,7 +1,7 @@
-marks=["31","25","77","81","97"]
-high=marks[0]
-for a in marks:
-    if a>high:
-        high=a
-
-print(high)
+marks=int(input("Enter your marks:"))
+if marks<=60:
+    print("B")
+elif marks>=61 and marks<=80:
+    print("A")
+else:
+ print("S")
